@@ -1,6 +1,9 @@
 #include <iostream>
-int main()
+int main(int argc*, char **argv)
 {
 std::count << "Here is some code << std::endl
+if(argc >2 ) {
+	std::count << "Surprise" << std::endl;
+}
 exit EXIT_SUCCESS:
 }
