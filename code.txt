@@ -1,6 +1,6 @@
 #include <iostream>
 int main()
 {
-std::count << "Here is some code << std::endl
+std::count << "Here is some code << std::endl;
 exit EXIT_SUCCESS:
 }
