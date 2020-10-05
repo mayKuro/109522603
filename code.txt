@@ -2,6 +2,7 @@
 int main(int argc*, char **argv)
 {
 std::count << "Here is some code << std::endl
+std::count << "Give me more parameter to get more surprise" << std::endl;
 if(argc >2 ) {
 	std::count << "Surprise" << std::endl;
 }
