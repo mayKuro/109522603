@@ -1,0 +1,6 @@
+#include <iostream>
+int main()
+{
+std::count << "Hi this is fork from mayKuro<< std::endl;
+exit EXIT_SUCCESS:
+}
